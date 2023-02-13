@@ -10,7 +10,7 @@
 <div  align="center"> 
   <div style="display: inline_block"><br>
     <h1 align="center">Languages/Frameworks/Other</h1>
-    <img align="center" height="30" width="40" alt="typescript-icon"  src="https://github.com/DavyCosta701/DavyCosta701/blob/main/python-icon.png">
+    <img align="center" alt="typescript-icon"  src="https://github.com/DavyCosta701/DavyCosta701/blob/main/python-icon.png">
     <img align="center" height="30" width="40" alt="typescript-icon"  src="https://github.com/DavyCosta701/DavyCosta701/blob/main/Jupyter-Notebook-EF5w-udy4.png">
     <img align="center" height="30" width="40" alt="typescript-icon"  src="https://github.com/DavyCosta701/DavyCosta701/blob/main/java-icon.png">
     <img align="center" height="30" width="40" alt="typescript-icon"  src="https://github.com/DavyCosta701/DavyCosta701/blob/main/hibernate-icon.svg">
