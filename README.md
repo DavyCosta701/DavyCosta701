@@ -25,7 +25,7 @@
    </div>
     
   
-  <h1 align="center">Contac</h1>
+  <h1 align="center">Contact and Social Media</h1>
     <a href = "mailto: davycosta701@gmail.com">
       <img width="30" src="gmail.svg">
     </a>  
