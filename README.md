@@ -1,8 +1,8 @@
 ## Hello! I'm Davy Costa
 
-<div>
+<div style="text-align: center;">
   
-<img src="" alt="">![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DavyCosta701&show_icons=true&theme=tokyonight)</img>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DavyCosta701&show_icons=true&theme=tokyonight)
 
 </div>
 <br>
