@@ -1,9 +1,10 @@
-## Olá, Sou o Rafael Nascimento!
+## Hello! I'm Davy Costa
 
 <div>
   
-  <img  height="170em" src="https://github-readme-stats.vercel.app/api?username=Rfaelsn&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img align="right" height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rfaelsn&layout=compact&langs_count=16&theme=dracula"/>
+  <img  height="170em" src="[![DavyCosta's GitHub stats](https://github-readme-stats.vercel.app/api?username=DavyCosta701)](https://github.com/DavyCosta701/github-readme-stats)"
+/>
+  <img align="right" height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DavyCosta701&layout=compact&langs_count=16&theme=tokyonight"/>
 </div>
 <br>
 
