@@ -2,7 +2,7 @@
 
 <div>
   
-<img src="![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DavyCosta701&show_icons=true&theme=tokyonight)" alt=""></img>
+<img src="" alt="">![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DavyCosta701&show_icons=true&theme=tokyonight)</img>
 
 </div>
 <br>
