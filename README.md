@@ -1,7 +1,10 @@
 ## Hello! I'm Davy Costa
 
 <div style="text-align: center;">
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DavyCosta701&show_icons=true&theme=tokyonight)</div>
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DavyCosta701&show_icons=true&theme=tokyonight)
+
+</div>
 <br>
 
 <div  align="center"> 
