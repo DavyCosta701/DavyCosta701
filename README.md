@@ -4,7 +4,6 @@
   
   <img  height="170em" src="[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DavyCosta701)](https://github.com/anuraghazra/github-readme-stats)
 "/>
-  <img align="right" height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DavyCosta701&layout=compact&langs_count=16&theme=tokyonight"/>
 </div>
 <br>
 
