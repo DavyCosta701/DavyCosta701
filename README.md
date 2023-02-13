@@ -29,7 +29,7 @@
     <a href = "mailto: davycosta701@gmail.com">
       <img width="30" src="gmail.svg">
     </a>  
-    <a href = "https://www.linkedin.com/in/rafael-nascimento-11b301212/">
+    <a href = "https://www.linkedin.com/in/davy-carlos-costa-34510b214/">
       <img width="25" src="linkedin.svg">
     </a>
 </div>
