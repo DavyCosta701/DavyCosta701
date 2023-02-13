@@ -25,8 +25,8 @@
    </div>
     
   
-  <h1 align="center">Redes Sociais</h1>
-    <a href = "mailto: rafaelnascimentovf6@gmail.com">
+  <h1 align="center">Contac</h1>
+    <a href = "mailto: davycosta701@gmail.com">
       <img width="30" src="gmail.svg">
     </a>  
     <a href = "https://www.linkedin.com/in/rafael-nascimento-11b301212/">
