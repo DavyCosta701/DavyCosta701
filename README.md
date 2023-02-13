@@ -14,6 +14,7 @@
     <img align="center" height="40" width="40" alt="jupyter-icon"  src="https://github.com/DavyCosta701/DavyCosta701/blob/main/Jupyter-Notebook-EF5w-udy4.png">
     <img align="center" height="40" width="40" alt="java-icon"  src="https://github.com/DavyCosta701/DavyCosta701/blob/main/java-icon.png">
     <img align="center" height="40" width="40" alt="hibernate-icon"  src="https://github.com/DavyCosta701/DavyCosta701/blob/main/hibernate-icon.svg">
+    <img align="center" height="40" width="40" alt="websec-icon"  src="https://github.com/DavyCosta701/DavyCosta701/blob/main/web-security-1737748-1474340.webp">
     <h1 align="center">Databases</h1>
     <img align="center" height="40" width="40" alt="mysql-icon" src="https://github.com/Rfaelsn/Rfaelsn/blob/main/MySQL-Logo.wine.svg">
     <img align="center" height="40" width="40" alt="postgrees-icon" src="https://github.com/Rfaelsn/Rfaelsn/blob/main/PostgreSQL-Logo.wine.svg">
