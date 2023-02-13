@@ -16,11 +16,13 @@
     <img align="center" height="40" width="40" alt="hibernate-icon"  src="https://github.com/DavyCosta701/DavyCosta701/blob/main/hibernate-icon.svg">
     <img align="center" height="40" width="40" alt="websec-icon"  src="https://github.com/DavyCosta701/DavyCosta701/blob/main/web-security-1737748-1474340.webp">
     <img align="center" height="40" width="40" alt="websec-icon"  src="https://github.com/DavyCosta701/DavyCosta701/blob/f04b5ace277aca0feb5d491f0b9fdd68feeed59f/Linux_Tux.png">
+    <img align="center" height="40" width="40" alt="sqlite-icon" src="https://github.com/DavyCosta701/DavyCosta701/blob/main/git.png">
     <h1 align="center">Databases</h1>
     <img align="center" height="40" width="40" alt="mysql-icon" src="https://github.com/Rfaelsn/Rfaelsn/blob/main/MySQL-Logo.wine.svg">
     <img align="center" height="40" width="40" alt="postgrees-icon" src="https://github.com/Rfaelsn/Rfaelsn/blob/main/PostgreSQL-Logo.wine.svg">
     <img align="center" height="40" width="40" alt="mongodb-icon" src="https://github.com/Rfaelsn/Rfaelsn/blob/main/mongodb-icon.svg">
     <img align="center" height="40" width="40" alt="sqlite-icon" src="https://github.com/DavyCosta701/DavyCosta701/blob/main/Sqlite-square-icon.svg.png">
+
     
    </div>
     
