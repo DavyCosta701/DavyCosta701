@@ -20,7 +20,7 @@
     <img align="center" height="40" width="40" alt="node-icon"  src="flask_icon.png">
     <img align="center" height="40" width="40" alt="spring-icon"  src="spring_icon.png">
     <img align="center" height="40" width="40" alt="spring-icon"  src="spark_icon.jpg">
-    <img align="center" height="40" width="40" alt="spring-icon"  src="rabbitmq_icon.jpg">
+    <img align="center" height="40" width="40" alt="spring-icon"  src="rabbitmq_icon.png">
     <img align="center" height="40" width="40" alt="jupyter-icon"  src="https://github.com/DavyCosta701/DavyCosta701/blob/main/Jupyter-Notebook-EF5w-udy4.png">
     <h1 align="center">Operational</h1>
     <img align="center" height="40" width="40" alt="websec-icon"  src="https://github.com/DavyCosta701/DavyCosta701/blob/main/web-security-1737748-1474340.webp">
