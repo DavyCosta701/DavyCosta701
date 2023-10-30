@@ -9,7 +9,6 @@
 
 <div  align="center">
   <div style="display: inline_block"><br>
-    <h1 align="center">Languages/Frameworks/Other</h1>
     <h1 align="center">Languages</h1>
     <img align="center" height="40" width="40" alt="python-icon"  src="https://github.com/DavyCosta701/DavyCosta701/blob/main/python-icon.png">
     <img align="center" height="40" width="40" alt="java-icon"  src="https://github.com/DavyCosta701/DavyCosta701/blob/main/java-icon.png">
