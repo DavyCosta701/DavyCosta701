@@ -14,6 +14,8 @@
     <img align="center" height="40" width="40" alt="java-icon"  src="https://github.com/DavyCosta701/DavyCosta701/blob/main/java-icon.png">
     <img align="center" height="40" width="40" alt="php-icon"  src="php_icon.png">
     <img align="center" height="40" width="40" alt="node-icon"  src="node_icon.png">
+    <img align="center" height="40" width="40" alt="node-icon"  src="rust-logo-256x256-blk.png">
+    <img align="center" height="40" width="40" alt="node-icon"  src="goicone.jpg">
     <h1 align="center">Frameworks</h1>
     <img align="center" height="40" width="40" alt="hibernate-icon"  src="https://github.com/DavyCosta701/DavyCosta701/blob/main/hibernate-icon.svg">
     <img align="center" height="40" width="40" alt="node-icon"  src="flask_icon.png">
